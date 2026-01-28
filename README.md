@@ -10,6 +10,7 @@ loan approval using a **Stacking Ensemble Model**.
 - Displays a **clear, business-friendly decision**
 --
 ## 🧠 Why Stacking?
+
 Stacking improves prediction accuracy by combining strengths of different models,
 leading to better and more reliable decisions.
 --
@@ -22,3 +23,8 @@ leading to better and more reliable decisions.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+--
+## 👨‍💻 Author
+
+**Sathya Sai**  
